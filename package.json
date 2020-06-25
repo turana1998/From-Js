@@ -13,7 +13,7 @@
     "@spectrum-css/button": "^3.0.0-beta.2",
     "@spectrum-css/page": "^2.0.7",
     "@spectrum-css/vars": "^2.3.0",
-    "angular": "1.4.7",
+    "angular": "1.8.0",
     "http-server": "^0.12.3"
   }
 }
