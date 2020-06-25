@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server . -p 8000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@spectrum-css/button": "^3.0.0-beta.2",
+    "@spectrum-css/page": "^2.0.7",
+    "@spectrum-css/vars": "^2.3.0",
+    "angular": "1.4.7",
+    "http-server": "^0.12.3"
+  }
+}
